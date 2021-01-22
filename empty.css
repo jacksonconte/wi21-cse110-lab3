@@ -38,6 +38,6 @@ header {
     background-color: azure;
 }
 
-[input-type="password"] {
+[type="password"] {
     color:purple;
 }
