@@ -7,7 +7,12 @@
 }
 
 p {
-    color:#000
+    color:#001;
+}
+
+p:hover {
+    background-color:hsl(43, 83%, 96%);
+    color: hsla(0, 50%, 0%, 1);
 }
 
 .mediabox {
