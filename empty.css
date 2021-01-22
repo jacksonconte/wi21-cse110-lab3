@@ -1,15 +1,30 @@
 /* it ain't empty anymore! */
 
-@import url(https://fonts.googleapis.com/css?family=Poppins);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:b,i,bi|Open+Sans);
 
 * {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    color:#000
 }
 
 .mediabox {
     border-style: solid;
-    border-color: gray;
+    border-color: #888888;
     border-width: auto;
     border-radius: 1%;
     background-color:beige;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: auto;
+}
+
+header {
+    background-color: rgb(255, 68, 68);
+    color: rgba(255, 255, 255, 1);
+    padding: 10px 10px 10px 10px;
+    margin: 5px;
 }
