@@ -53,3 +53,7 @@ h2 + h3 {
 aside {
     width:20%;
 }
+
+input:active {
+    background-color: gainsboro;
+}
