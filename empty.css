@@ -1,0 +1,15 @@
+/* it ain't empty anymore! */
+
+@import url(//fonts.googleapis.com/css?family=Poppins);
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.mediabox {
+    border-style: solid;
+    border-color: gray;
+    border-width: auto;
+    border-radius: 1%;
+    background-color:beige;
+}
