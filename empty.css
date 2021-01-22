@@ -8,6 +8,7 @@
 
 div p {
     color:#001;
+    text-align: justify;
 }
 
 p:hover {
@@ -35,13 +36,29 @@ body > header {
 }
 
 h2 + h3 {
-    color:maroon;
+    color:black;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: underline;
 }
 
 #form {
     background-color: azure;
+    position: fixed;
 }
 
 [type="password"] {
     color:purple;
+}
+
+aside {
+    width:20%;
+    position: relative;
+    left:30px;
+    border-style: solid;
+    padding:1%;
+}
+
+input:active {
+    color: gray;
 }
