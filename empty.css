@@ -39,6 +39,7 @@ h2 + h3 {
     color:black;
     margin-bottom: 5px;
     text-align: center;
+    text-decoration: underline;
 }
 
 #form {
