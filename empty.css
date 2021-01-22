@@ -28,6 +28,17 @@ div.mediabox {
     width: auto;
 }
 
+#funstuff {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;
+}
+
+#funstuff.h3 {
+    padding: 2%;
+}
+
 body > header {
     background-color: rgb(255, 68, 68);
     color: rgba(255, 255, 255, 1);
