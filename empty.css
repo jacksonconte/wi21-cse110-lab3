@@ -45,3 +45,7 @@ h2 + h3 {
 [type="password"] {
     color:purple;
 }
+
+aside {
+    width:20%;
+}
